@@ -1,0 +1,19 @@
+/*
+Theme Name: OceanWP Child Theme
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme. Sample child theme.
+Author: OceanWP
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+li#menu-item-72 {
+   
+   background-color:rgba(220, 159, 150, 1);
+   
+}
+
+.buttoncolor { color: white;
+}
